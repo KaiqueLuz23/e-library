@@ -1,9 +1,9 @@
-#Objetivos e Desafios
+# Objetivos e Desafios
 * Colocar o discente em contato com tecnologias atuais e amplamente utilizadas no mercado de trabalho.
 * Despertar o interesse para a pesquisa de soluções e resoluções de problemas emergentes.
 * Desafiar os discentes a utilizarem recursos além dos aprendidos em sala de aula.
 
-#Equipe
+# Equipe
 | RA  |Nome | TURMA |
 | :------------ |:---------------:| -----:|
 |919122570|Bruno França|1| 
@@ -19,4 +19,4 @@
 |2220100797|KAIQUE EMANUEL TEIXEI LUZ SILVA|1| 
 
 
-#Tecnologia utilizadas
+# Tecnologia utilizadas
