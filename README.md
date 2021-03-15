@@ -5,7 +5,7 @@
 
 # Equipe
 | RA  |Nome |Curso | Turma |
-| :------------ |:---------------:| -----:|
+| :------------ |:---------------:| -----:|| -----:|
 |419204542|Ana Paula Chaves Brandi |TBD |1|
 |919122570|Bruno França |TBD |1| 
 |919208517|David Angelo Martins Silva |TBD |1| 
