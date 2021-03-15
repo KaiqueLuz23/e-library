@@ -4,8 +4,8 @@
 * Desafiar os discentes a utilizarem recursos além dos aprendidos em sala de aula.
 
 # Equipe
-| RA  |Nome |Curso | Turma |
-| :------------ |:---------------:| -----:|| -----:|
+| RA  |Nome |Curso |Turma |
+| :------------ |:---------------:| :-----:|| -----:|
 |419204542|Ana Paula Chaves Brandi |TBD |1|
 |919122570|Bruno França |TBD |1| 
 |919208517|David Angelo Martins Silva |TBD |1| 
