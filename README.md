@@ -17,4 +17,7 @@
 |919208782|Rhaniel Barbosa se Lima|TBD |1|
 |920205415|Vanessa Andrea da Silva Lobos|TBD |1|
 
+# Modelo do site
+![](https://github.com/KaiqueLuz23/e-library/blob/main/static/img/modelo_do_site.jpeg)
+
 # Tecnologia utilizadas
