@@ -20,4 +20,13 @@
 # Modelo do site
 ![](https://github.com/KaiqueLuz23/e-library/blob/main/static/img/modelo_do_site.jpeg)
 
-# Tecnologia utilizadas
+# Tecnologia utilizadas              
++ FrontEnd
+    + HTML
+    + CSS
+    + Bootstrap
++ Backend
+    + Python
++ Data Base
+    * MySQL 
+    * MongoDB
