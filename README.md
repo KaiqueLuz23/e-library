@@ -12,7 +12,7 @@
 |919103754|Gabriel Rodrigues de Moraes |TBD|1|
 |2220105315|José Hygor Júlio Dos Santos|TBD |1| 
 |2220100797|Kaique Emanuel Teixei Luz Silva|TBD |1|
-|920205973|Niuce Cabre Rodrigues|TBD |1|
+|920205973|Niuce Cabrera Rodrigues|TBD |1|
 |919203801|Pedro Henrique Ferreide Oliveira|TBD |1| 
 |919208782|Rhaniel Barbosa se Lima|TBD |1|
 |920205415|Vanessa Andrea da Silva Lobos|TBD |1|
