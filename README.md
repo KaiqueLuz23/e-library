@@ -30,3 +30,5 @@
 + Data Base
     * MySQL 
     * MongoDB
++ Frameworks
+    * Django
