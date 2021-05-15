@@ -6,10 +6,20 @@
  * Custom translucent site header
  */
 
+
 .site-header {
-  background-color: #43b9ca;
+  background-color: #009fff;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
+}
+
+.destaque1{
+  background-image: url('../img/elibrary.png'); 
+  background-size: 100%;
+  border-radius: 0px;
+  height: 100%;   
+  padding-right: 10px;
+  margin-right: 5px;
 }
 .site-header a {
   color: 	#f8f9fa;
