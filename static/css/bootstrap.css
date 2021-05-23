@@ -654,6 +654,7 @@ progress {
   margin-left: calc(var(--bs-gutter-x) / -2);
 }
 .row > * {
+  background-color: #009fff;
   flex-shrink: 0;
   width: 100%;
   max-width: 100%;
@@ -7413,7 +7414,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #009fff !important;
 }
 
 .bg-dark {
