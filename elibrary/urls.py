@@ -23,6 +23,8 @@ from core import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', views.home),
+    path('home/eup', views.eup),
+    path('home/ecast', views.ecast),
     path("", RedirectView.as_view(url='/home/'))
 ]
 urlpatterns += staticfiles_urlpatterns()
