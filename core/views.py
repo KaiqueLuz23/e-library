@@ -9,3 +9,5 @@ def eup(request):
     return render(request, 'eup.html')
 def ecast(request):
     return render(request, 'ecast.html')
+def eshare(request):
+    return render(request, 'eshare.html')

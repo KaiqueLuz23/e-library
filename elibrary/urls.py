@@ -25,6 +25,7 @@ urlpatterns = [
     path('home/', views.home),
     path('home/eup', views.eup),
     path('home/ecast', views.ecast),
+    path('home/eshare', views.eshare),
     path("", RedirectView.as_view(url='/home/'))
 ]
 urlpatterns += staticfiles_urlpatterns()
