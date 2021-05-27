@@ -9,6 +9,7 @@
 |419204542|Ana Paula Chaves Brandi |TBD |1|
 |919122570|Bruno França |TBD |1| 
 |919208517|David Angelo Martins Silva |TBD |1| 
+|2220113244|Elton Luiz de Souza |TBD |1|
 |919103754|Gabriel Rodrigues de Moraes |TBD|1|
 |2220105315|José Hygor Júlio Dos Santos|TBD |1| 
 |2220100797|Kaique Emanuel Teixei Luz Silva|TBD |1|
