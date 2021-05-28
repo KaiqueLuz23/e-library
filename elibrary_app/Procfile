@@ -1,1 +1,1 @@
-web: gunicorn e-library.wsgi
+web: gunicorn dep:elibrary_app
