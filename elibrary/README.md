@@ -8,7 +8,7 @@ An utterly fantastic project starter template for Django 2.0.
 - Enhancements to Django's static file serving functionality via WhiteNoise.
 - Latest Python 3.6 runtime environment.
 
-## How to Use
+## How to Use a
 
 To use this project, follow these steps:
 
