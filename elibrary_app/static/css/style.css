@@ -276,14 +276,14 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #fdd430;
+     color: #fff;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #fdd430;
+     color: #fff;
 }
 
 
@@ -296,7 +296,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header {
-     background: #0c0f38;
+     background: #009fff;
      width: 100%;
      padding: 40px 40px 40px 40px;
 }
@@ -310,7 +310,7 @@ button {
 }
 
 .banner_main {
-     background: #0c0f38;
+     background: #009fff;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
@@ -325,7 +325,7 @@ button {
 }
 
 .text-bg span {
-     color: #fdd430;
+     color: #fff;
      font-size: 40px;
      line-height: 35px;
      font-weight: bold;
@@ -370,7 +370,7 @@ button {
 
 .titlepage h2 {
      font-size: 45px;
-     color: #0c0f38;
+     color: #009fff;
      line-height: 40px;
      font-weight: bold;
      padding: 0;
@@ -392,7 +392,7 @@ button {
 }
 
 .web_hosting p {
-     color: #0c0f38;
+     color: #009fff;
      font-size: 17px;
      line-height: 28px;
      padding: 40px 50px;
@@ -413,7 +413,7 @@ button {
 }
 
 .web_hosting a:hover {
-     background-color: #0c0f38;
+     background-color: #009fff;
      color: #fff;
 }
 
@@ -426,7 +426,7 @@ button {
 .Services {
      margin-top: 90px;
      padding: 60px 0;
-     background: #0c0f38;
+     background: #009fff;
      font-family: Poppins;
 }
 
