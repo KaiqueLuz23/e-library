@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
     'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
+    'polls',
 ]
 
 MIDDLEWARE = [
@@ -130,10 +131,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
 
-# Extra places for collectstatic to find static files.
-STATICFILES_DIRS = [
-    os.path.join(PROJECT_ROOT, 'staticfiles'),
-]
 
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
