@@ -123,14 +123,14 @@ ALLOWED_HOSTS = ['127.0.0.1']
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 # arquivos staticos
-STATIC_URL = '/static/'
-
 MEDIA_URL = '/img/'
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
-]
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
