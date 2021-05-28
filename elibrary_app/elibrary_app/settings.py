@@ -126,11 +126,14 @@ ALLOWED_HOSTS = ['127.0.0.1']
 STATIC_URL = '/static/'
 
 MEDIA_URL = '/img/'
+MEDIA_ROOT = "img"
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
-]
-
+if  DEBUG:
+    STATICFILES_DIRS = [
+        os.path.join(BASE_DIR, 'static')
+    ]
+else:
+    STATIC_ROOT = os.path.join(BASE_DIR, "static")
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
